@@ -1,0 +1,17 @@
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.exe
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.deps.json
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\dehya.khurraim\OneDrive - Logiciel Services LLC\Documents\JunkProject\Airline\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaA.971102D1.Up2Date
